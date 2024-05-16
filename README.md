@@ -1,1 +1,2 @@
-# microsoft-rewards-automated-scripts-edge-Browser
+# microsoft-rewards自动化脚本，利用edge浏览器驱动完成自动搜索积分
+寻找对应edge版本的驱动下载，并把第九行代码目录替换为对应地址
