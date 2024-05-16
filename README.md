@@ -1,0 +1,1 @@
+# microsoft-rewards-automated-scripts-edge-Browser
